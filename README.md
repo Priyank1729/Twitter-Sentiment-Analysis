@@ -19,5 +19,5 @@ Download link: https://datahack.analyticsvidhya.com/contest/practice-problem-twi
 
 ## Algorithm
   * Logistic Regression
-**Best Model Accuracy:** 95.00
+**Best Model Accuracy:** 94.00
 
